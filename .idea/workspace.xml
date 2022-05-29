@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f03de5ab-eb8f-432c-917c-66be0731424c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/sqr/SQRService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/sqr/StatsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/sqr/SQRTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/sqr/StatsTest.java" afterDir="false" />
+    <list default="true" id="f03de5ab-eb8f-432c-917c-66be0731424c" name="Changes" comment="UpToDate">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SqrCount.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SatsService.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
   </component>
   <component name="RunManager" selected="JUnit.StatsTest">
     <configuration name="StatsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SqrCount" />
+      <module name="SatsService" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.netology.sqr.*" />
@@ -65,7 +64,7 @@
       </method>
     </configuration>
     <configuration name="StatsTest.shouldCalculateAboweAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SqrCount" />
+      <module name="SatsService" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.netology.sqr.*" />
@@ -81,7 +80,7 @@
       </method>
     </configuration>
     <configuration name="StatsTest.shouldCalculateAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SqrCount" />
+      <module name="SatsService" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.netology.sqr.*" />
@@ -97,7 +96,7 @@
       </method>
     </configuration>
     <configuration name="StatsTest.shouldCalculateBelowAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SqrCount" />
+      <module name="SatsService" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.netology.sqr.*" />
@@ -113,7 +112,7 @@
       </method>
     </configuration>
     <configuration name="StatsTest.shouldCalculateMinMonth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SqrCount" />
+      <module name="SatsService" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.netology.sqr.*" />
@@ -147,6 +146,21 @@
       <option name="presentableId" value="Default" />
       <updated>1650660816463</updated>
     </task>
+    <task id="LOCAL-00001" summary="UpToDate">
+      <created>1653817973584</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653817973584</updated>
+    </task>
+    <task id="LOCAL-00002" summary="UpToDate">
+      <created>1653818088823</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653818088823</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,5 +173,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="UpToDate" />
+    <option name="LAST_COMMIT_MESSAGE" value="UpToDate" />
   </component>
 </project>

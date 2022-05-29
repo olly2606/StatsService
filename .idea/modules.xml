@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SqrCount.iml" filepath="$PROJECT_DIR$/SqrCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SatsService.iml" filepath="$PROJECT_DIR$/SatsService.iml" />
     </modules>
   </component>
 </project>
